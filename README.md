@@ -15,8 +15,11 @@ Dashboard Creation: Using Power BI, I created interactive graphics that displaye
 KPIs:
 
 $1.20 million in total sales.
+
 $141 is the average sales per outlet.
+
 3.9 is the average rating. 
+
 8.523 items were sold.
 
 Suggestions:
